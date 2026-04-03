@@ -48,7 +48,7 @@ export function DrawerWithSides() {
                             <ul className="space-y-12">
                                 <li><a href="/">Home</a></li>
                                 <li><a href="/">Portfolio</a></li>
-                                <li><a href="/">FAQ</a></li>
+                                <li><a href="/">Pricing</a></li>
                                 <li><a href="/">Contact</a></li>
                             </ul>
                     </div>
